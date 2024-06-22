@@ -3,9 +3,9 @@ Cara Install Project ke local
 -   Follow Github Saya
 -   Star Repo Github Saya
 -   Fork Repo Github Saya
--   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
+-   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :
 ``````
-https://github.com/AhmadAlbara/starter-laravel11-nextJS.git
+git clone https://github.com/AhmadAlbara/starter-laravel11-nextJS.git
 `````` 
 -   lalu masuk ke direktori repo yg sudah di clone
 -   masuk ke direktori server dan tulis pada terminal/cmd/git bash : <b>composser install </b>
