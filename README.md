@@ -8,7 +8,7 @@ Cara Install Project ke local
 git clone https://github.com/AhmadAlbara/starter-laravel11-nextJS.git
 `````` 
 -   lalu masuk ke direktori repo yg sudah di clone
--   masuk ke direktori server dan tulis pada terminal/cmd/git bash : <b>composser install </b>
+-   masuk ke direktori server dan tulis pada terminal/cmd/git bash : <b>composer install </b>
 - buat file .env dan copy kan semua yang terdapat pada file .env.example 
 -   tulis migrate database pada terminal/cmd/git bash : 
 ``````
